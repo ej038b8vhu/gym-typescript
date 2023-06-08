@@ -1,4 +1,5 @@
-## [Gym-TypeScript](https://fine-typescript.netlify.app)
+# [Gym TypeScript](https://fine-typescript.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fa1d0a6-ad61-4370-b0c7-082a673fbe8c/deploy-status)](https://app.netlify.com/sites/fine-typescript/deploys)
 
 - [Vite](https://vitejs.dev/)
 
